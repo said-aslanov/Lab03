@@ -38,4 +38,3 @@ except Exception:
 
 st.divider()
 st.success("✅ Phase 1a complete when: Home loads, shows team info, and links open each sub‑page.")
-st.info("Next: Deploy this repo to Streamlit Community Cloud for Phase 1b.")
